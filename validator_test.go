@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/mash/validator"
 	. "gopkg.in/check.v1"
-	"gopkg.in/validator.v2"
 )
 
 func Test(t *testing.T) {
